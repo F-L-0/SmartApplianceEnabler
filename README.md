@@ -31,7 +31,7 @@ Der *Smart Appliance Enabler* dient dazu, beliebige Geräte ([Ladegeräte/Wallbo
 
 Dazu meldet der *Smart Appliance Enabler* dem SHM **Bedarfsanforderungen** dieser Geräte um diesem eine optimale Planung des Eigenverbrauchs zu ermöglich. Entsprechend dieser Planung empfängt der *Smart Appliance Enabler* **Schaltbefehle**, die er an die von ihm verwalteten Geräte weiterleitet. Falls für diese Geräte individuelle, **digitale Stromzähler** verwendet werden, können diese ausgelesen werden und der Stromverbrauch an den SHM gemeldet werden, um diesen beim Lernen der Verbrauchscharakteristik zu unterstüzen und Verbräuche zu visualieren.
 
-Ein Wintertag mit hohem Energiebedarf für die Heizungswärmepumpe und zusätzlichen Verbrauchern in Fom von Waschmaschine, Geschirrspüler und Herd kann so aussehen:
+Ein Wintertag mit hohem Energiebedarf für die Heizungswärmepumpe und zusätzlichen Verbrauchern in Form von Waschmaschine, Geschirrspüler und Herd kann so aussehen:
 
 ![SHM_Verbraucherbilanz_GuterTag](pics/shm/Verbraucherbilanz_GuterTag.png)
 
